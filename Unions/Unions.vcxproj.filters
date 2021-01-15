@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="example1.cpp" />
+    <ClCompile Include="example3.cpp" />
+    <ClCompile Include="example4.cpp" />
+    <ClCompile Include="example2.cpp" />
+    <ClCompile Include="contrast1.cpp" />
+    <ClCompile Include="contrast2.cpp" />
+    <ClCompile Include="contrast3.cpp" />
+    <ClCompile Include="contrast4.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+</Project>
